@@ -8,6 +8,7 @@ The three classes in the dataset are,
                 3.	NORMAL
 
 Methods:
+
 Below mentioned are the steps involved in this data science project,
 1.	Explore the data and find patterns and insights,
 2.	Perform Feature selection, to find the most important features
